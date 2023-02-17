@@ -7,8 +7,7 @@
 <p align='center'> 🔭 I’m currently working on **Front-end Development | Web3**. </p>
 <p align='center'> 👯 I’m looking to collaborate on **JAVA | MERN**. </p>
 <p align='center'> 💬 Ask me about **Web3 | MERN**. </p>
-<p align='center'> 📫 How to reach me **zubairkandhro1@gmail.com** </p>
-- 📫 How to reach me **zubairkandhro1@gmail.com**
+<p align='center'> 📫 How to reach me <a href="mailto:zubairkandhro1@gmail.com">zubairkandhro1@gmail.com</a></p>
 
 <br/>
 
