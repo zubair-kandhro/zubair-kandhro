@@ -8,6 +8,7 @@
 <p align='center'> 👯 I’m looking to collaborate on **JAVA | MERN**. </p>
 <p align='center'> 💬 Ask me about **Web3 | MERN**. </p>
 <p align='center'> 📫 How to reach me **zubairkandhro1@gmail.com** </p>
+- 📫 How to reach me **zubairkandhro1@gmail.com**
 
 <br/>
 
